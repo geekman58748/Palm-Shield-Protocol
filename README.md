@@ -58,7 +58,7 @@ Palm Shield operates on a **Stake → Verify → Payout** loop:
 * **Rust**: `1.75+`
 
 ## Live Demo
-
+- Dashboard:  [Video](https://youtu.be/G88SNsxBnOA)
 - Dashboard:  [Palm Shield Dashboard](https://palm-shield-protocol.netlify.app/)
 - Screening API: `https://iffyvycwlhgnsqotlckv.supabase.co/functions/v1/psp-screen`
 - Solana Program: `https://solscan.io/account/AcksH6RgonJwV52Zd59GmxdXUJAMvdU1B3mq8BAEu3bm?cluster=devnet`
